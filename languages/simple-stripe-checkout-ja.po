@@ -1,0 +1,694 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/simple-stripe-"
+"checkout\n"
+"POT-Creation-Date: 2023-11-11T18:33:00+09:00\n"
+"PO-Revision-Date: 2023-11-11 18:33:00+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#. Plugin Name of the plugin
+msgid "Simple Stripe Checkout"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://s-page.biz/ssc/"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"It is a plug-in that can install the payment button of the payment platform "
+"\"Stripe\"."
+msgstr ""
+
+#. Author of the plugin
+msgid "Growniche Inc."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.growniche.co.jp/"
+msgstr ""
+
+#. 初期設定
+msgid "Initial setting"
+msgstr "初期設定"
+
+#. 商品一覧
+msgid "Product list"
+msgstr "商品一覧"
+
+#. 新規登録
+msgid "Product registration"
+msgstr "新規登録"
+
+#. 変更
+msgid "Product edit"
+msgstr "変更"
+
+#. メール設定
+msgid "Mail setting"
+msgstr "メール設定"
+
+#. 保存
+msgid "Save"
+msgstr "保存"
+
+#. 登録
+msgid "Registration"
+msgstr "登録"
+
+#. 検索
+msgid "Search"
+msgstr "検索"
+
+#. 削除
+msgid "Delete"
+msgstr "削除"
+
+#. 決済完了
+msgid "Payment completed"
+msgstr "決済完了"
+
+#. キャンセル完了
+msgid "Cancellation completed"
+msgstr "キャンセル完了"
+
+#. 公開キー
+msgid "Public key"
+msgstr "公開キー"
+
+#. シークレットキー
+msgid "Secret key"
+msgstr "シークレットキー"
+
+#. チェックボックス
+msgid "Checkbox"
+msgstr "チェックボックス"
+
+#. 商品名
+msgid "Product name"
+msgstr "商品名"
+
+#. 商品コード
+msgid "Product code"
+msgstr "商品コード"
+
+#. ショートコード
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#. 一括
+msgid "Lump sum"
+msgstr "一括"
+
+#. 定期
+msgid "Subscription"
+msgstr "定期"
+
+#. 販売者向けメール設定
+msgid "Email settings for seller"
+msgstr "販売者向けメール設定"
+
+#. 受信メールアドレス
+msgid "Received email address"
+msgstr "受信メールアドレス"
+
+#. 送信元メールアドレス
+msgid "Sender email address"
+msgstr "送信元メールアドレス"
+
+#. 購入者向けメール設定
+msgid "Email settings for buyer"
+msgstr "購入者向けメール設定"
+
+#. 即時決済をしますか？
+msgid "Do you want to make an immediate payment?"
+msgstr "即時決済をしますか？"
+
+#. 提供者
+msgid "Provider"
+msgstr "提供者"
+
+#. 価格
+msgid "Price"
+msgstr "価格"
+
+#. 通貨
+msgid "Currency"
+msgstr "通貨"
+
+#. StripのプランID/価格ID
+msgid "Strip Plan ID / Price ID"
+msgstr "StripのプランID/価格ID"
+
+#. 内容
+msgid "Contents"
+msgstr "内容"
+
+#. お申込み内容
+msgid "Application details"
+msgstr "お申込み内容"
+
+#. お支払いに使われたカード下四桁
+msgid "Last 4 digits of the card used for payment"
+msgstr "お支払いに使われたカード下四桁"
+
+#. お支払いに使われるカード下四桁
+msgid "Last 4 digits of the card to be used for payment"
+msgstr "お支払いに使われるカード下四桁"
+
+#. 初回引落予定日
+msgid "First scheduled withdrawal date"
+msgstr "初回引落予定日"
+
+#. 今すぐ購入
+msgid "Buy now"
+msgstr "今すぐ購入"
+
+#. ボタン名
+msgid "Button label"
+msgstr "ボタン名"
+
+#. 継続
+msgid "Continuation"
+msgstr "継続"
+
+#. 月次
+msgid "Monthly"
+msgstr "月次"
+
+#. 年次
+msgid "Yearly"
+msgstr "年次"
+
+#. 購入者様Eメール
+msgid "Buyer email"
+msgstr "購入者様Eメール"
+
+#. お支払いのキャンセルについて
+msgid "Cancellation of payment"
+msgstr "お支払いのキャンセルについて"
+
+#. 定期支払のキャンセル
+msgid "Cancellation of subscription"
+msgstr "定期支払のキャンセル"
+
+#. お支払いに関するお問い合わせ先
+msgid "Contact for payment"
+msgstr "お支払いに関するお問い合わせ先"
+
+#. 次回引落予定日
+msgid "Next scheduled withdrawal date"
+msgstr "次回引落予定日"
+
+#. 様
+msgid "Mr/Ms"
+msgstr "様"
+
+#. 請求間隔
+msgid "Billing frequency"
+msgstr "請求間隔"
+
+#. 支払回数
+msgid "Billing cycle"
+msgstr "支払回数"
+
+#. 無期限の場合は0を設定してください。
+msgid "Set 0 for indefinite period"
+msgstr "※無期限の場合は0を設定してください。"
+
+#. Webhook設定
+msgid "Webhook setting"
+msgstr "Webhook設定"
+
+#. 無料トライアル
+msgid "Free trial"
+msgstr "無料トライアル"
+
+#. 請求タイミング
+msgid "Billing timing"
+msgstr "請求タイミング"
+
+#. この商品のショートコード
+msgid "Short code for this product"
+msgstr "この商品のショートコード"
+
+#. キャンセルされたお支払い
+msgid "Canceled payment"
+msgstr "キャンセルされたお支払い"
+
+#. 以上
+msgid "or more"
+msgstr "以上"
+
+#. 複製
+msgid "Duplicate"
+msgstr "複製"
+
+#. 編集
+msgid "Edit"
+msgstr "編集"
+
+#. 複数ある場合はカンマで区切ってください。
+msgid "If there are more than one, separate them with commas."
+msgstr "複数ある場合はカンマで区切ってください。"
+
+#. Stripeの公開キーが正しくありません。
+msgid "Stripe's public key is incorrect."
+msgstr "Stripeの公開キーが正しくありません。"
+
+#. Stripeのシークレットキーが正しくありません。
+msgid "Stripe's secret key is incorrect."
+msgstr "Stripeのシークレットキーが正しくありません。"
+
+#. 初期設定の保存が完了しました。
+msgid "The initial settings have been saved."
+msgstr "初期設定の保存が完了しました。"
+
+#. 定期支払キャンセル完了
+msgid "Recurring payment cancellation completed"
+msgstr "定期支払キャンセル完了"
+
+#. Stripeカスタマーポータル
+msgid "Stripe Customer Portal"
+msgstr "Stripeカスタマーポータル"
+
+#. StripeカスタマーポータルログインURL
+msgid "Stripe customer portal login url"
+msgstr "StripeカスタマーポータルURL"
+
+#. カードや登録Eメールの変更など行えます。
+msgid "You can change your card, registered e-mail address, etc."
+msgstr "カードや登録Eメールの変更など行えます。"
+
+#. メールを送信しました。
+msgid "Mail has send."
+msgstr "メールを送信しました。"
+
+#. 購入者宛メールを送信しました。
+msgid "Completed sending email to purchaser."
+msgstr "購入者宛メールを送信しました。"
+
+#. 販売者宛メールを送信しました。
+msgid "Completed sending email to seller."
+msgstr "購入者宛メールを送信しました。"
+
+#. メールの送信に失敗しました。
+msgid "Failed to send the email."
+msgstr "メールの送信に失敗しました。"
+
+#. 購入者宛メールの送信に失敗しました。
+msgid "Failed to send the email to the purchaser."
+msgstr "購入者宛メールの送信に失敗しました。"
+
+#. 販売者宛メールの送信に失敗しました。
+msgid "Failed to send the email to the seller."
+msgstr "販売者宛メールの送信に失敗しました。"
+
+#. 販売者向け受信メールアドレスが正しくありません。
+msgid "The received email address for the seller is incorrect."
+msgstr "販売者向け受信メールアドレスが正しくありません。"
+
+#. 販売者向け送信元メルアドが正しくありません。
+msgid "The sender email address for the seller is incorrect."
+msgstr "販売者向け送信元メルアドが正しくありません。"
+
+#. 購入者向け送信元メルアドが正しくありません。
+msgid "The sender email address for the purchaser is incorrect."
+msgstr "購入者向け送信元メルアドが正しくありません。"
+
+#. 即時決済のON/OFFが正しくありません。
+msgid "The ON / OFF of immediate payment is incorrect."
+msgstr "即時決済のON/OFFが正しくありません。"
+
+#. StripeカスタマーポータルのログインURLが正しくありません。
+msgid "The stripe customer portal login url is incorrect."
+msgstr "StripeカスタマーポータルのログインURLが正しくありません。"
+
+#. メール設定の保存が完了しました。
+msgid "Your email settings have been saved."
+msgstr "メール設定の保存が完了しました。"
+
+#. StripeのWebhook情報を取得できません。
+msgid "Unable to get Stripe webhook information."
+msgstr "StripeのWebhook情報を取得できません。"
+
+#. StripeにWebhookを登録できません。
+msgid "Unable to register Webhook with Stripe."
+msgstr "StripeにWebhookを登録できません。"
+
+#. StripeにWebhookを登録しました。
+msgid "Completed registering Webhook on Stripe."
+msgstr "StripeにWebhookを登録しました。"
+
+#. ショートコードをコピーしました
+msgid "The shortcode was copied."
+msgstr "ショートコードをコピーしました。"
+
+#. クリックしてコピーする。
+msgid "Click to copy."
+msgstr "クリックしてコピーする。"
+
+#. OFFの場合は、24時間後に決済確定となるメールが配信されますが、実際は、決済確定の為のリンクが送られ、手動で確定する必要があります。迷惑メールなどでメールが届かない場合は、定期的にStripe管理画面での確認が必要です。
+msgid ""
+"If it is OFF, an email will be sent to confirm the payment after 24 hours, "
+"but in reality, a link to confirm the payment will be sent and you will need "
+"to confirm it manually. If you do not receive the e-mail due to unsolicited "
+"e-mail, you need to check it regularly on the Stripe management screen."
+msgstr ""
+"OFFの場合は、24時間後に決済確定となるメールが配信されますが、実際は、決済確定"
+"の為のリンクが送られ、手動で確定する必要があります。迷惑メールなどでメールが"
+"届かない場合は、定期的にStripe管理画面での確認が必要です。"
+
+#. お支払いが完了しました。
+msgid "Payment is complete."
+msgstr "お支払いが完了しました。"
+
+#. ありがとうございます。
+msgid "Thank you very much."
+msgstr "ありがとうございます。"
+
+#. 引き続きよろしくお願いいたします。
+msgid "Thank you for your continued support."
+msgstr "引き続きよろしくお願いいたします。"
+
+#. またの機会がありましたらよろしくお願いいたします。
+msgid "If you have another chance, thank you."
+msgstr "またの機会がありましたらよろしくお願いいたします。"
+
+#. お支払いのキャンセルを承りました。
+msgid "We have accepted the cancellation of payment."
+msgstr "お支払いのキャンセルを承りました。"
+
+#. 決済確定完了
+msgid "Settlement confirmed"
+msgstr "決済確定完了"
+
+#. 決済が確定し、お支払いが完了しました。
+msgid "The payment is confirmed and the payment is completed."
+msgstr "決済が確定し、お支払いが完了しました。"
+
+#. ご登録いただいていた定期支払いをキャンセルしました。
+msgid "I canceled the registered regular payment."
+msgstr "ご登録いただいていた定期支払いをキャンセルしました。"
+
+#. 決済時のメールに記載
+msgid "Included in the payment email"
+msgstr "決済時のメールに記載"
+
+#. サブスクリプションID
+msgid "Subscription ID"
+msgstr "サブスクリプションID"
+
+#. 登録したクレジットカードの下4桁
+msgid "Last 4 digits of registered credit card"
+msgstr "登録したクレジットカードの下4桁"
+
+#. カスタマーポータルにアクセスする
+msgid "Go to Customer Portal"
+msgstr "カスタマーポータルにアクセスする"
+
+#. Stripeカスタマーポータルにおける操作完了
+msgid "Operation in the Stripe Customer Portal is complete"
+msgstr "Stripeカスタマーポータルにおける操作完了"
+
+#. ご利用ありがとうございました。
+msgid "Thank you for using."
+msgstr "ご利用ありがとうございました。"
+
+#. 商品価格が正しくありません。
+msgid "The item price is incorrect."
+msgstr "商品価格が正しくありません。"
+
+#. 商品提供者名が正しくありません。
+msgid "The product provider name is incorrect."
+msgstr "商品提供者名が正しくありません。"
+
+#. 商品名が正しくありません。
+msgid "The product name is incorrect."
+msgstr "商品名が正しくありません。"
+
+#. 商品通貨が正しくありません。
+msgid "The product currency is incorrect."
+msgstr "商品通貨が正しくありません。"
+
+#. 商品ボタン名が正しくありません。
+msgid "The product button name is incorrect."
+msgstr "商品ボタン名が正しくありません。"
+
+#. 商品請求タイミングが正しくありません。
+msgid "The product billing timing is incorrect."
+msgstr "商品請求タイミングが正しくありません。"
+
+#. 商品請求間隔が正しくありません。
+msgid "The product billing interval is incorrect."
+msgstr "商品請求間隔が正しくありません。"
+
+#. 商品支払回数が正しくありません。
+msgid "The product billing cycle is incorrect."
+msgstr "商品支払回数が正しくありません。"
+
+#. 商品無料トライアル日数が正しくありません。
+msgid "The product free trial days are incorrect."
+msgstr "商品無料トライアル日数が正しくありません。"
+
+#. Stripeへの商品登録に失敗しました。
+msgid "Failed to register the product on Stripe."
+msgstr "Stripeへの商品登録に失敗しました。"
+
+#. 商品情報の保存が完了しました。
+msgid "The product information has been saved."
+msgstr "商品情報の保存が完了しました。"
+
+#. StripeのPlanの削除に失敗しました。
+msgid "Failed to delete Stripe Plan."
+msgstr "StripeのPlanの削除に失敗しました。"
+
+#. Stripeの商品の取得に失敗しました。
+msgid "Failed to get Stripe products."
+msgstr "Stripeの商品の取得に失敗しました。"
+
+#. Stripeの商品の削除に失敗しました。
+msgid "Failed to delete Stripe products."
+msgstr "Stripeの商品の削除に失敗しました。"
+
+#. の支払いが行われました。
+msgid ": Payment was made."
+msgstr "の支払いが行われました。"
+
+#. がキャンセルされました。
+msgid "It was cancelled."
+msgstr "がキャンセルされました。"
+
+#. への定期払登録ありがとうございます。
+msgid ": Thank you for registering for regular payment."
+msgstr "への定期払登録ありがとうございます。"
+
+#. への定期払登録がありました。
+msgid ": There was a regular payment registration."
+msgstr "への定期払登録がありました。"
+
+#. 決済は既にキャンセルされています。
+msgid "The payment has already been cancelled."
+msgstr "決済は既にキャンセルされています。"
+
+#. 決済は既に確定されています。
+msgid "The settlement has already been confirmed."
+msgstr "決済は既に確定されています。"
+
+#. まだ24時間経過していません。
+msgid "24 hours have not passed yet."
+msgstr "まだ24時間経過していません。"
+
+#. 決済を確定するデータがないか、決済の確定に失敗しました。
+msgid ""
+"There is no data to confirm the payment, or the payment has failed to be "
+"confirmed."
+msgstr "決済を確定するデータがないか、決済の確定に失敗しました。"
+
+#. 決済を確定しました。
+msgid "The settlement has been confirmed."
+msgstr "決済を確定しました。"
+
+#. サブスクリプションが存在しません。
+msgid "The subscription does not exist."
+msgstr "サブスクリプションが存在しません。"
+
+#. サブスクリプションは既にキャンセルされています。
+msgid "Your subscription has already been cancelled."
+msgstr "サブスクリプションは既にキャンセルされています。"
+
+#. 商品情報が存在しません。
+msgid "Product information does not exist."
+msgstr "商品情報が存在しません。"
+
+#.プラン情報が存在しません。
+msgid "Plan information does not exist."
+msgstr "プラン情報が存在しません。"
+
+#. 顧客情報が存在しません。
+msgid "Customer information does not exist."
+msgstr "顧客情報が存在しません。"
+
+#. サブスクリプションのキャンセルに失敗しました
+msgid "Subscription cancellation failed."
+msgstr "サブスクリプションのキャンセルに失敗しました。"
+
+#. サブスクリプションをキャンセルしました。
+msgid "The subscription has been cancelled."
+msgstr "サブスクリプションをキャンセルしました。"
+
+#. 定期支払リ回数ではない。
+msgid "It is not a regular payment recycling."
+msgstr "定期支払リ回数ではない。"
+
+#. サブスクリプションの支払完了メール送信処理に失敗しました
+msgid "Failed to send subscription payment completion email"
+msgstr "サブスクリプションの支払完了メール送信処理に失敗しました"
+
+#. この度はありがとうございます。
+msgid "Thank you for this time."
+msgstr "この度はありがとうございます。"
+
+#. 今後、以下の内容でお支払いが行われます。
+msgid "From now on, payment will be made with the following contents."
+msgstr "今後、以下の内容でお支払いが行われます。"
+
+#. 以下の内容でお支払いが行われました。
+msgid "Payment was made with the following contents."
+msgstr "以下の内容でお支払いが行われました。"
+
+#. お支払い確認後、24時間以内であれば、以下をクリックするとキャンセル可能です。
+msgid ""
+"You can cancel within 24 hours after confirming payment by clicking below."
+msgstr ""
+"お支払い確認後、24時間以内であれば、以下をクリックするとキャンセル可能です。"
+
+#. それ以降はキャンセル料が発生します。
+msgid "After that, a cancellation fee will be charged."
+msgstr "それ以降はキャンセル料が発生します。"
+
+#. お客様にて、お支払いの確定がありましたので、
+msgid ""
+"Since the customer has confirmed the payment, the following payment has been "
+"made."
+msgstr ""
+"お客様にて、お支払いの確定がありましたので、以下のお支払いが行われました。"
+
+#. の支払いが行われましたので、ご連絡のメールとなります。
+msgid ""
+": The payment has been made, so you will receive an email to contact you."
+msgstr "の支払いが行われましたので、ご連絡のメールとなります。"
+
+#. この度は、誠にありがとうございます。
+msgid "Thank you very much for this time."
+msgstr "この度は、誠にありがとうございます。"
+
+#. キャンセルがありませんでしたので、以下の内容にて、お支払いが確定されました。
+msgid ""
+"Since there was no cancellation, payment was confirmed with the following "
+"contents."
+msgstr ""
+"キャンセルがありませんでしたので、以下の内容にて、お支払いが確定されました。"
+
+#. 以下のお支払い登録がキャンセルされました。
+msgid "The following payment registration has been cancelled."
+msgstr "以下のお支払い登録がキャンセルされました。"
+
+#. 以下の内容についてキャンセルがされました。
+msgid "The following contents have been cancelled."
+msgstr "以下の内容についてキャンセルがされました。"
+
+#. 再度お申込みの際は、再度お支払いが必要です。
+msgid "If you apply again, you will need to pay again."
+msgstr "再度お申込みの際は、再度お支払いが必要です。"
+
+#. キャンセルする場合は以下をクリックするとキャンセル可能です。
+msgid "If you want to cancel, click below to cancel."
+msgstr "キャンセルする場合は以下をクリックするとキャンセル可能です。"
+
+#. お支払いの確定をしなければ回収できません！
+msgid "You will not be able to collect it unless you confirm your payment!"
+msgstr "お支払いの確定をしなければ回収できません！"
+
+#. 「24時間以内であればキャンセル可」と自動送信メールで伝えております。
+msgid ""
+"\"Cancellation is possible within 24 hours\" is sent by automatic email."
+msgstr "「24時間以内であればキャンセル可」と自動送信メールで伝えております。"
+
+#. 以下をクリックすると確定できるので、24時間過ぎたらお願いいたします。
+msgid "Click below to confirm, so please wait 24 hours."
+msgstr "以下をクリックすると確定できるので、24時間過ぎたらお願いいたします。"
+
+#. 確定後にキャンセルがあった場合は、Stripeの手数料が掛かります。
+msgid "If you cancel after confirmation, you will be charged a Stripe fee."
+msgstr "確定後にキャンセルがあった場合は、Stripeの手数料が掛かります。"
+
+#. すぐ開始の場合は0日で設定してください。
+msgid "If you want to start immediately, set it to 0 days."
+msgstr "すぐ開始の場合は0日で設定してください。"
+
+#. 与信枠の確保をキャンセルしました。
+msgid "Canceled to secure credit line."
+msgstr "与信枠の確保をキャンセルしました。"
+
+#. 与信枠を確保していたデータがないか、与信枠の確保のキャンセルに失敗しました。
+msgid ""
+"There is no data that has secured the credit line, or the cancellation of "
+"the credit line has failed."
+msgstr ""
+"与信枠を確保していたデータがないか、与信枠の確保のキャンセルに失敗しました。"
+
+#. 24時間を経過している為、キャンセルできません。
+msgid "It has been 24 hours and cannot be canceled."
+msgstr "24時間を経過している為、キャンセルできません。"
+
+#. サブスクリプションの登録に失敗しました。
+msgid "Subscription registration failed."
+msgstr "サブスクリプションの登録に失敗しました。"
+
+#. へのお支払いがありました。
+msgid ": There was payment."
+msgstr "へのお支払いがありました。"
+
+#. へのお支払いありがとうございます。
+msgid ": Thank you for your payment."
+msgstr "へのお支払いありがとうございます。"
+
+#. 決済が完了しませんでした。
+msgid "Payment was not completed."
+msgstr "決済が完了しませんでした。"
+
+#. 設定が不完全です。
+msgid "Incomplete settings."
+msgstr "設定が不完全です。"
+
+#. 商品情報がありません。
+msgid "There is no product information."
+msgstr "商品情報がありません。"
+
+#. を削除しますか？
+msgid ": Do you want to delete it?"
+msgstr "を削除しますか？"
+
+#. 入力が正しくありません。
+msgid "Incorrect input."
+msgstr "入力が正しくありません。"
+
+#. 約１時間後
+msgid "About 1 hour later"
+msgstr "約１時間後"
+
+#. 回数
+msgid "Cycle"
+msgstr "回数"
+
+#. 無期限
+msgid "Indefinite"
+msgstr "無期限"
